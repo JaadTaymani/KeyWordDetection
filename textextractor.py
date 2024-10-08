@@ -1,4 +1,3 @@
-#answer to strata coding project
 
 import pandas as pd
 
